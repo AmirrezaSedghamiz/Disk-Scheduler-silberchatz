@@ -63,9 +63,7 @@ For **each algorithm**, the program displays:
 - **Seek Sequence** (order of serviced cylinders)
 - **Total Seek Time** (total head movement)
 - **Comparison** of total seek times across all algorithms
-
-### Bonus
-- Optional **graphical visualization** of head movement using matplotlib
+- **graphical visualization** of head movement using matplotlib
 
 ---
 
